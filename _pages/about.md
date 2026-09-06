@@ -1,6 +1,4 @@
-title: About Me ⋆.˚⭑.ᐟ
-author_profile: true
-redirect_from: 
+About Me ⋆.˚⭑.ᐟ
 
 I’m a student super interested in cognitive neuroscience and neuroanatomy, and I love learning everything about the brain! I also enjoy learning different languages and travelling. Outside of uni, I love having coffee with friends, reading, hiking, and exploring somewhere new. I’m always excited to learn something new and difficult, whether it’s through my studies or trying something different from my usual. I am hoping to one day become a neuropsychiatrist…. but we’ll see how that goes ˙ᵕ˙ 
 
